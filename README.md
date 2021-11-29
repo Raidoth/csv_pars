@@ -3,3 +3,4 @@
 
 
 make
+./csvreader <filename.csv>
