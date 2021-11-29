@@ -2,5 +2,5 @@
 
 
 
-make
+make\n
 ./csvreader <filename.csv>
