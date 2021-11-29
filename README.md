@@ -1,6 +1,8 @@
 # csv_pars
 
 
-
-make\n
+## Project start
+```
+make
 ./csvreader <filename.csv>
+```
